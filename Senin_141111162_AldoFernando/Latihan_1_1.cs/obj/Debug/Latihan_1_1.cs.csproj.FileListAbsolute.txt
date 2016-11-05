@@ -1,0 +1,9 @@
+D:\Kuliah\MW-A-1\Framework.NET\Senin_141111162_AldoFernando\Latihan_1_1.cs\bin\Debug\Latihan_1_1.cs.exe.config
+D:\Kuliah\MW-A-1\Framework.NET\Senin_141111162_AldoFernando\Latihan_1_1.cs\bin\Debug\Latihan_1_1.cs.exe
+D:\Kuliah\MW-A-1\Framework.NET\Senin_141111162_AldoFernando\Latihan_1_1.cs\bin\Debug\Latihan_1_1.cs.pdb
+D:\Kuliah\MW-A-1\Framework.NET\Senin_141111162_AldoFernando\Latihan_1_1.cs\obj\Debug\Latihan_1_1.cs.csprojResolveAssemblyReference.cache
+D:\Kuliah\MW-A-1\Framework.NET\Senin_141111162_AldoFernando\Latihan_1_1.cs\obj\Debug\Latihan_1_1.cs.Properties.Resources.resources
+D:\Kuliah\MW-A-1\Framework.NET\Senin_141111162_AldoFernando\Latihan_1_1.cs\obj\Debug\Latihan_1_1.cs.csproj.GenerateResource.Cache
+D:\Kuliah\MW-A-1\Framework.NET\Senin_141111162_AldoFernando\Latihan_1_1.cs\obj\Debug\Latihan_1_1.cs.exe
+D:\Kuliah\MW-A-1\Framework.NET\Senin_141111162_AldoFernando\Latihan_1_1.cs\obj\Debug\Latihan_1_1.cs.pdb
+D:\Kuliah\MW-A-1\Framework.NET\Senin_141111162_AldoFernando\Latihan_1_1.cs\obj\Debug\Latihan_1_1.cs.Latihan_1_1.resources
