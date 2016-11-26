@@ -1,0 +1,9 @@
+G:\Senin_141111162_AldoFernando\Volley_Ball_problem\bin\Debug\Volley_Ball_problem.exe.config
+G:\Senin_141111162_AldoFernando\Volley_Ball_problem\bin\Debug\Volley_Ball_problem.exe
+G:\Senin_141111162_AldoFernando\Volley_Ball_problem\bin\Debug\Volley_Ball_problem.pdb
+G:\Senin_141111162_AldoFernando\Volley_Ball_problem\obj\Debug\Volley_Ball_problem.csprojResolveAssemblyReference.cache
+G:\Senin_141111162_AldoFernando\Volley_Ball_problem\obj\Debug\Volley_Ball_problem.Form1.resources
+G:\Senin_141111162_AldoFernando\Volley_Ball_problem\obj\Debug\Volley_Ball_problem.Properties.Resources.resources
+G:\Senin_141111162_AldoFernando\Volley_Ball_problem\obj\Debug\Volley_Ball_problem.csproj.GenerateResource.Cache
+G:\Senin_141111162_AldoFernando\Volley_Ball_problem\obj\Debug\Volley_Ball_problem.exe
+G:\Senin_141111162_AldoFernando\Volley_Ball_problem\obj\Debug\Volley_Ball_problem.pdb
